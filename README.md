@@ -1,6 +1,3 @@
-Sure! Here’s the revised description with the heading in bold:
-
----
 
 **React E-Commerce Shop**
 
