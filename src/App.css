@@ -1,0 +1,9 @@
+a {
+  text-decoration: none !important;
+}
+.custom-inherit {
+  background-color: inherit !important;
+}
+.custom-navbar {
+  height: 80px;
+}
